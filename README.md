@@ -10,7 +10,7 @@ Whether you're a beginner or an Excel pro, these functions make data handling a 
 
 ## Resources
 
-- YouTube video
+- [YouTube video](https://youtu.be/Jca4LyxII7Q)
 - [Cheat Sheet](https://nbviewer.org/github/missfactorial/Excel-VLOOKUP-INDEX-MATCH-XLOOKUP/blob/main/Cheat%20Sheet%20-%20VLOOKUP%2C%20INDEX%2C%20MATCH%2C%20XLOOKUP.pdf)
 - [Empty Excel Workbook with exercises](https://nbviewer.org/github/missfactorial/Excel-VLOOKUP-INDEX-MATCH-XLOOKUP/blob/main/EMPTY%20-%20VLOOKUP%2C%20INDEX%2C%20MATCH.xlsx)
 - [Excel Workbook with exercises and answers](https://nbviewer.org/github/missfactorial/Excel-VLOOKUP-INDEX-MATCH-XLOOKUP/blob/main/VLOOKUP%2C%20INDEX%2C%20MATCH.xlsx)
