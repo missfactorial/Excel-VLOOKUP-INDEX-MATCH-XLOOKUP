@@ -4,7 +4,7 @@ If you're navigating through Excel and need a hand with looking up data, **VLOOK
 
 For more flexibility, **INDEX** 🔍 and **MATCH** 🧩 work great together—**INDEX** retrieves the value at a specified position, while **MATCH** helps you find that position within a range, perfect for situations where you need to look up values in multiple directions. 
 
-And then there's **XLOOKUP** 🚀, the all-in-one solution that combines the best of both worlds, offering a more powerful and versatile way to search for data across rows and columns, ideal for finding employee details from a complex database. 
+And then there's **XLOOKUP** 🚀, the all-in-one solution that combines the best of both worlds, offering a more powerful and versatile way to search for data across rows and columns, ideal for finding employee details from a complex database using Employee ID. 
 
 Whether you're a beginner or an Excel pro, these functions make data handling a breeze!
 
